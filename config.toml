@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "vin on tech"
+theme = "mita"
+
+[Menus]
+  main = [
+      {Name = "about", URL = "/about"},
+  ]

@@ -1,0 +1,3 @@
+[submodule "themes/mita"]
+	path = themes/mita
+	url = https://github.com/vinliao/mita
